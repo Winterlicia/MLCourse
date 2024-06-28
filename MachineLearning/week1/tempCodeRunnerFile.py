@@ -1,0 +1,5 @@
+plt.scatter(x_train, y_train, marker='x', c='r')
+plt.title("Housing Prices")
+plt.xlabel("Size in ft^2 (thousands)")
+plt.ylabel("Price in $ (thousands)")
+plt.show()
