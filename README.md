@@ -4,4 +4,4 @@ This repository includes all the optional labs and assignments from Andrew Ng's 
 
 ## Personal Course Certificate
 
-<img src="./Certificate/MachineLearningSpecializationCertificate.PNG">
+<img src="./Certificate/MachineLearningSpecializationCertificate.png">
